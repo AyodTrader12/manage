@@ -1,0 +1,43 @@
+{
+  "task": {
+    "id": 11,
+    "data": [
+      {
+        "id": "uuiwwu",
+        "title": "task 1"
+      },
+      {
+        "id": "uuur",
+        "title": "task 2"
+      },
+      {
+        "id": "uuu",
+        "title": "task 3"
+      }
+    ]
+  },
+
+  "progress": {
+    "id": 22,
+    "data": [
+      {
+        "id": "uuu",
+        "title": "task 3"
+      },
+      {
+        "id": "uuu",
+        "title": "task 3"
+      }
+    ]
+  },
+
+  "done": {
+    "id": 33,
+    "data": [
+      {
+        "id": "uuu",
+        "title": "task 3"
+      }
+    ]
+  }
+}
